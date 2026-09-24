@@ -2,6 +2,6 @@
 
 
 ## <div align="justify">
-Здравствуйте, мне 20 лет. Я начинающий Python/Java разработчик. Мой опыт включает в себя создание различных python проектов(обучение нейросетевых моделей на собранных данных:Face Detector, ANPR (Automatic Number Plate Recognition), TextToSpeech/SpeechToText и тд). Так же есть опыт в создании Pet-проектов.
+Здравствуйте, мне 20 лет. Я начинающий Python/Java разработчик. Мой опыт включает в себя создание различных python проектов(обучение нейросетевых моделей на собранных данных:Face Detector, ANPR (Automatic Number Plate Recognition), TextToSpeech/SpeechToText и тд). Также есть опыт в создании Pet-проектов.
 Пробую себя в сфере языка Java, занимаясь pet-проектами. Буду развивать себя во всех направлениях python(django, FastApi, RestAPI). Сильно нуждаюсь в опыте и буду рад любым заявкам на стажировку/основу.</div>
 
